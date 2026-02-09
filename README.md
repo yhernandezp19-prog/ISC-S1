@@ -5,7 +5,7 @@
 ###### Es un intermediario basado en un conjunto de reglas y protocolos  que ayuda a conectar 2 aplicaciones de software se comuniquen entre sí y cumplan con ayudar al usuario con su solicitud según lo solicitado.
 
 #### Docker
-###### Es una herramienta que ayuda al usuario a aguardar y** empaquetar **  su aplicación / software en un contenedor virtual para poder transportarlo y ejecutarlo en diferentes sistemas operativos o software de creación sin necesidad de ajustarlo a dicho  sistema.
+###### Es una herramienta que ayuda al usuario a aguardar y ** empaquetar **  su aplicación / software en un contenedor virtual para poder transportarlo y ejecutarlo en diferentes sistemas operativos o software de creación sin necesidad de ajustarlo a dicho  sistema.
 
 #### Phishing
 ###### Es una técnica maliciosa virtual que engaña al usuario para poder obtener cualquier tipo de información que afecte a este a través de suplantar la identidad por una entidad reconocida.
